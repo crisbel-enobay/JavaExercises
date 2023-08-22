@@ -1,3 +1,5 @@
+package Codewars;
+
 public class Quadrant {
     public static void main(String[] args) {
         System.out.println(quadrant(1, 2));
